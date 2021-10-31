@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.4.0](https://www.github.com/multijasasolusindo/node.gyp/compare/v8.3.0...v8.4.0) (2021-10-31)
+
+
+### Features
+
+* support vs2022 ([#2533](https://www.github.com/multijasasolusindo/node.gyp/issues/2533)) ([5a00387](https://www.github.com/multijasasolusindo/node.gyp/commit/5a00387e5f8018264a1822f6c4d5dbf425f21cf6))
+
 ## [8.3.0](https://www.github.com/nodejs/node-gyp/compare/v8.2.0...v8.3.0) (2021-10-11)
 
 
